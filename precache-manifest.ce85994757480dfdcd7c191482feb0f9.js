@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca2b1826f207447ba1c30e3dd88f9b5c",
+    "revision": "3ec34596e250d411fd07cafa1d63ab8a",
     "url": "/index.html"
   },
   {
-    "revision": "9d86a5da850a4314c123",
+    "revision": "fd797cacb1b82c2a64c6",
     "url": "/static/css/main.41745985.chunk.css"
   },
   {
-    "revision": "b73edbefadf0b61e3ed8",
-    "url": "/static/js/2.5a77f83a.chunk.js"
+    "revision": "f3f2b2eb0411a365a4df",
+    "url": "/static/js/2.ce5dda55.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.5a77f83a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ce5dda55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d86a5da850a4314c123",
-    "url": "/static/js/main.060b9027.chunk.js"
+    "revision": "fd797cacb1b82c2a64c6",
+    "url": "/static/js/main.01244d49.chunk.js"
   },
   {
     "revision": "cf06e91897761940f5d3",
     "url": "/static/js/runtime-main.d3cf82e2.js"
+  },
+  {
+    "revision": "89bdc11cf34abe9a663dba4a184152de",
+    "url": "/static/media/apprevendas-app.89bdc11c.jpg"
+  },
+  {
+    "revision": "f39df47dd62d7761ef31aa7babb47bac",
+    "url": "/static/media/apprevendas-site.f39df47d.jpg"
   },
   {
     "revision": "de21d79f65cb30c758461909e7e04476",
@@ -74,5 +82,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "550ab1b7a03227806f9bb9759e5e3d2b",
     "url": "/static/media/unicred.550ab1b7.jpg"
+  },
+  {
+    "revision": "5ffabf0fb3d6ee5e63096d54c951762b",
+    "url": "/static/media/xpague.5ffabf0f.jpg"
   }
 ]);

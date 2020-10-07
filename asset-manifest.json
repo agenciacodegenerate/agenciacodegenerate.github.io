@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.41745985.chunk.css",
-    "main.js": "/static/js/main.060b9027.chunk.js",
-    "main.js.map": "/static/js/main.060b9027.chunk.js.map",
+    "main.js": "/static/js/main.01244d49.chunk.js",
+    "main.js.map": "/static/js/main.01244d49.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d3cf82e2.js",
     "runtime-main.js.map": "/static/js/runtime-main.d3cf82e2.js.map",
-    "static/js/2.5a77f83a.chunk.js": "/static/js/2.5a77f83a.chunk.js",
-    "static/js/2.5a77f83a.chunk.js.map": "/static/js/2.5a77f83a.chunk.js.map",
+    "static/js/2.ce5dda55.chunk.js": "/static/js/2.ce5dda55.chunk.js",
+    "static/js/2.ce5dda55.chunk.js.map": "/static/js/2.ce5dda55.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.aacc1fcaf3fae87adf6ad520d47c5540.js": "/precache-manifest.aacc1fcaf3fae87adf6ad520d47c5540.js",
+    "precache-manifest.ce85994757480dfdcd7c191482feb0f9.js": "/precache-manifest.ce85994757480dfdcd7c191482feb0f9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.41745985.chunk.css.map": "/static/css/main.41745985.chunk.css.map",
-    "static/js/2.5a77f83a.chunk.js.LICENSE.txt": "/static/js/2.5a77f83a.chunk.js.LICENSE.txt",
+    "static/js/2.ce5dda55.chunk.js.LICENSE.txt": "/static/js/2.ce5dda55.chunk.js.LICENSE.txt",
+    "static/media/apprevendas-app.jpg": "/static/media/apprevendas-app.89bdc11c.jpg",
+    "static/media/apprevendas-site.jpg": "/static/media/apprevendas-site.f39df47d.jpg",
     "static/media/beira-rio.jpg": "/static/media/beira-rio.de21d79f.jpg",
     "static/media/c&a.jpg": "/static/media/c&a.6b20357f.jpg",
     "static/media/globoplay.jpg": "/static/media/globoplay.a818deda.jpg",
@@ -24,12 +26,13 @@
     "static/media/swaap.jpg": "/static/media/swaap.0cc11400.jpg",
     "static/media/taqi.jpg": "/static/media/taqi.cb4b9cd1.jpg",
     "static/media/ticket-log.jpg": "/static/media/ticket-log.6ccc91c3.jpg",
-    "static/media/unicred.jpg": "/static/media/unicred.550ab1b7.jpg"
+    "static/media/unicred.jpg": "/static/media/unicred.550ab1b7.jpg",
+    "static/media/xpague.jpg": "/static/media/xpague.5ffabf0f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d3cf82e2.js",
-    "static/js/2.5a77f83a.chunk.js",
+    "static/js/2.ce5dda55.chunk.js",
     "static/css/main.41745985.chunk.css",
-    "static/js/main.060b9027.chunk.js"
+    "static/js/main.01244d49.chunk.js"
   ]
 }
